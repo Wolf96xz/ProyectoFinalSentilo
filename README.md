@@ -1,3 +1,3 @@
 # ProyectoFinalSentilo
 
-Direccio web de la meva wiki on es documenta aquest projecte: http://wikiprojectefinal.wikidot.com/
+Projecte orientat a mostrar les dades dels sensors provenents de la plataforma Sentilo, amb diverses plataformes de caràcter lliure.
